@@ -161,3 +161,4 @@ $RECYCLE.BIN/
 # Current Paket Version
 .paket/paket.exe
 paket-files/
+/.ionide
